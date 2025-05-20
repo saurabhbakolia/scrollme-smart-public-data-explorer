@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "community": "AG",
+    "format": "JSON",
+    "region": {
+        "lat": 40.7128,
+        "lon": -74.0060
+    },
+    "start": "20230101",
+    "end": "20231231",
+    "parameters": [
+        "T2M",
+        "PRECTOTCORR",
+        "RH2M",
+        "ALLSKY_SFC_SW_DWN"
+    ]
+}
