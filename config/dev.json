@@ -7,7 +7,7 @@
         "lon": -74.0060
     },
     "start": "20230101",
-    "end": "20231231",
+    "end": "20230115",
     "parameters": [
         "T2M",
         "PRECTOTCORR",
